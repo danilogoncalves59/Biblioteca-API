@@ -1,0 +1,18 @@
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.exe
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.deps.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.runtimeconfig.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.runtimeconfig.dev.json
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.dll
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\bin\Debug\netcoreapp3.1\Biblioteca API.pdb
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.csprojAssemblyReference.cache
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca API.StaticWebAssets.Manifest.cache
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca API.StaticWebAssets.xml
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.AssemblyInfoInputs.cache
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.AssemblyInfo.cs
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.RazorTargetAssemblyInfo.cache
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.dll
+C:\Users\danilo.goncalves\Desktop\Biblioteca\Biblioteca-API\Biblioteca API\Biblioteca API\obj\Debug\netcoreapp3.1\Biblioteca API.pdb
